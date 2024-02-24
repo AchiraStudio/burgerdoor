@@ -75,6 +75,7 @@ body {
 }
 
 .gambar_menu {
+    border-radius: 10px;
     height: 250px;
     width: 400px;
     padding: 10px;
