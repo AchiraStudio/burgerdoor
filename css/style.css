@@ -1,0 +1,100 @@
+.title {
+    text-align: center;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+}
+
+.title_h5 {
+    color: rgb(102, 60, 6);
+    /* Apply League Spartan font with font-weight 700 */
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+}
+
+.title_p {
+    size: 30pt;
+    color: rgb(243, 197, 72);
+    /* Apply League Spartan font with font-weight 500 */
+    font-family: "League Spartan", sans-serif;
+    font-weight: 500;
+}
+
+body {
+    background-image: url(../assets/cover1.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+}
+
+.breakfast {
+    text-align: center;
+    padding: 10px;
+    margin: 90px;
+    background-color: rgba(220, 220, 220, 0.637);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    color: rgb(243, 197, 72);
+}
+
+.burger {
+    text-align: center;
+    padding: 10px;
+    margin: 90px;
+    background-color: rgba(220, 220, 220, 0.637);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    color: rgb(243, 197, 72);
+}
+
+.coffee {
+    text-align: center;
+    padding: 10px;
+    margin: 90px;
+    background-color: rgba(220, 220, 220, 0.637);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    color: rgb(243, 197, 72);
+}
+
+.tea {
+    text-align: center;
+    padding: 10px;
+    margin: 90px;
+    background-color: rgba(220, 220, 220, 0.637);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    color: rgb(243, 197, 72);
+}
+
+.menu_gambar {
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.gambar_menu {
+    height: 250px;
+    width: 400px;
+    padding: 10px;
+    justify-content: center;
+}
+
+table {
+    color: whitesmoke;
+    font-size: 16pt;
+    text-align: center;
+    font-family: "League Spartan", sans-serif;
+    width: 100%;
+    border-radius: 5px;
+    padding: 0px 50px;
+}
+
+th, td {
+    background-color: rgba(34, 139, 34, 0.342);
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    border-collapse: collapse;
+    height: 40px;
+}
